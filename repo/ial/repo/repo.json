@@ -10,7 +10,6 @@
 		"category": "Utilities",
 		"description": "Ultimate iOS App signer",
 		"bundleID": "p3.xyz.yyyue.esign",
-		"appstore": "p3.xyz.yyyue.esign",
 		"contact": {
 			"web": "https://esign.yyyue.xyz",
 			"twitter": "https://esign.yyyue.xyz"
