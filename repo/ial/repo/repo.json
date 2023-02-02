@@ -3,17 +3,17 @@
 		"repoName": "iAL Repo",
 		"repoIcon": "https://freeappsforme.com/wp-content/uploads/2019/02/TweakBox-review-1024x1024.png"
 	},
-	"Tweaked": [{
-		"name": "uYou",
-		"version": "18.01.6",
+	"Utilities": [{
+		"name": "ESign",
+		"version": "4.7.4",
 		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
-		"category": "Tweaked Apps",
-		"description": "True ad-less YouTube...",
-		"bundleID": "com.google.ios.youtube",
-		"appstore": "com.google.ios.youtube",
+		"category": "Utilities",
+		"description": "Ultimate iOS App signer",
+		"bundleID": "p3.xyz.yyyue.esign",
+		"appstore": "p3.xyz.yyyue.esign",
 		"contact": {
-			"web": "https://repo.twickd.com",
-			"twitter": "https://twitter.com/twickdrepo"
+			"web": "https://esign.yyyue.xyz",
+			"twitter": ""
 		}
 	}, {
 		"name": "iPogo",
@@ -120,22 +120,5 @@
 				"https://twitter.com/pwn20wnd"
 			]
 		}
-	],
-	"Emulators": [{
-		"name": "iNDS",
-		"version": "1.10.8",
-		"icon": "https://iosninja.io/img/ipas/inds.png",
-		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
-		"category": "Emulators",
-		"description": "",
-		"bundleID": "net.nerd.iNDS"
-	}, {
-		"name": "Delta iPac",
-		"version": "1",
-		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
-		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
-		"category": "Emulators",
-		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
-		"bundleID": "com.ianclawson.DeltaPacEdition"
-	}]
+	]
 }
