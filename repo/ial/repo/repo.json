@@ -120,6 +120,23 @@
 				"https://twitter.com/pwn20wnd"
 			]
 		}
-	]
+	],
+	"Emulators": [{
+		"name": "iNDS",
+		"version": "1.10.8",
+		"icon": "https://iosninja.io/img/ipas/inds.png",
+		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+		"category": "Emulators",
+		"description": "",
+		"bundleID": "net.nerd.iNDS"
+	}, {
+		"name": "Delta iPac",
+		"version": "1",
+		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
+		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
+		"category": "Emulators",
+		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
+		"bundleID": "com.ianclawson.DeltaPacEdition"
+	}]
 
 }
