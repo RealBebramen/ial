@@ -126,6 +126,7 @@
 		"version": "4.7.4",
 		"icon": "https://esign.yyyue.xyz/ESignLogo200.png",
 		"down": "https://github.com/RealBebramen/ial/blob/main/repo/ial/repo/contain/ipas/Esign.ipa?raw=true",
+		"dev": "yyyue",
 		"category": "Utilities",
 		"description": "ESign is a free iPA signature tool.",
 		"bundleID": "p3.xyz.yyyue.esign",
