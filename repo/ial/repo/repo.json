@@ -26,6 +26,12 @@
 		"category": "Hacked Games",
 		"description": "Standoff 2 is a fast-paced, action-packed first-person shooter. New maps, new types of weapons, new modes are waiting for you, in which teams of terrorists and special forces will meet in a battle to the death.",
 		"bundleID": "com.axlebolt.standoff2",
+		"screenshots": [
+			"https://github.com/RealBebramen/ial/blob/main/repo/ial/repo/contain/images/Standoff2/0.png?raw=true",
+			"https://github.com/RealBebramen/ial/blob/main/repo/ial/repo/contain/images/Standoff2/1.png?raw=true",
+			"https://github.com/RealBebramen/ial/blob/main/repo/ial/repo/contain/images/Standoff2/2.png?raw=true"
+			"https://github.com/RealBebramen/ial/blob/main/repo/ial/repo/contain/images/Standoff2/3.png?raw=true"
+		],
 		"contact": {
 			"twitter": "https://twitter.com/so2_official",
 		}
