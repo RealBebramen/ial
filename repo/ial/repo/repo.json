@@ -124,9 +124,10 @@
 	"Utils": [{
 		"name": "ESign",
 		"version": "4.7.4",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
+		"icon": "https://esign.yyyue.xyz/ESignLogo200.png",
+		"down": "https://github.com/RealBebramen/ial/blob/main/repo/ial/repo/contain/ipas/Esign.ipa?raw=true",
 		"category": "Utilities",
-		"description": "Ultimate iOS App signer",
+		"description": "ESign is a free iPA signature tool.",
 		"bundleID": "p3.xyz.yyyue.esign",
 		"contact": {
 			"web": "https://esign.yyyue.xyz",
