@@ -16,6 +16,19 @@
 			"web": "https://esign.yyyue.xyz",
 			"telegram": "https://t.me/qswapp",
 		}
-	}]
+	}],
+	"Hgames": [{
+		"name": "Standoff 2 Hack",
+		"version": "0.22.1",
+		"icon": "https://play-lh.googleusercontent.com/NJzIi6PiYQtLrdI0jY03S4hFQqVq4weJRsTIh-mU2lauUtNuj7v07e7sddmeRD3Zfmw",
+		"down": "https://github.com/RealBebramen/ial/blob/main/repo/ial/repo/contain/ipas/Esign.ipa?raw=true",
+		"dev": "AXLEBOLT, UICache Team",
+		"category": "Hacked Games",
+		"description": "Standoff 2 is a fast-paced, action-packed first-person shooter. New maps, new types of weapons, new modes are waiting for you, in which teams of terrorists and special forces will meet in a battle to the death.",
+		"bundleID": "com.axlebolt.standoff2",
+		"contact": {
+			"twitter": "https://twitter.com/so2_official",
+		}
+	}],
 
 }
