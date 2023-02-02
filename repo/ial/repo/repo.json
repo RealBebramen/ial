@@ -121,6 +121,18 @@
 			]
 		}
 	],
+	"Utilities": [{
+		"name": "ESign",
+		"version": "4.7.4",
+		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
+		"category": "Utilities",
+		"description": "Ultimate iOS App signer",
+		"bundleID": "p3.xyz.yyyue.esign",
+		"contact": {
+			"web": "https://esign.yyyue.xyz",
+			"twitter": "https://esign.yyyue.xyz"
+		}
+	],
 	"Emulators": [{
 		"name": "iNDS",
 		"version": "1.10.8",
