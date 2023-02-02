@@ -1,18 +1,19 @@
 {
 	"META": {
-		"repoName": "iAL Repo",
+		"repoName": "iAl Repo",
 		"repoIcon": "https://freeappsforme.com/wp-content/uploads/2019/02/TweakBox-review-1024x1024.png"
 	},
-	"Utilities": [{
-		"name": "ESign",
-		"version": "4.7.4",
+	"Tweaked": [{
+		"name": "uYou",
+		"version": "18.01.6",
 		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
-		"category": "Utilities",
-		"description": "Ultimate iOS App signer",
-		"bundleID": "p3.xyz.yyyue.esign",
+		"category": "Tweaked Apps",
+		"description": "True ad-less YouTube...",
+		"bundleID": "com.google.ios.youtube",
+		"appstore": "com.google.ios.youtube",
 		"contact": {
-			"web": "https://esign.yyyue.xyz",
-			"twitter": "https://esign.yyyue.xyz"
+			"web": "https://repo.twickd.com",
+			"twitter": "https://twitter.com/twickdrepo"
 		}
 	}, {
 		"name": "iPogo",
@@ -64,5 +65,77 @@
 		],
 		"bundleID": "com.frontierdesign.videostar",
 		"appstore": "com.frontierdesign.videostar"
+	}],
+	"Jailbreaks": [{
+			"name": "Taurine",
+			"version": "1.1.6",
+			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
+			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+			"dev": "Odyssey-Team",
+			"category": "Jailbreaks",
+			"description": "Time to get amped.",
+			"bundleID": "com.odysseyteam.taurine",
+			"screenshots": [
+				"https://taurine.app/assets/images/iphones.png",
+				"https://taurine.app/assets/images/iphone.png"
+			],
+			"contact": [
+				"https://taurine.app/",
+				"https://twitter.com/OdysseyTeam_"
+			]
+		},
+		{
+			"name": "Odyssey",
+			"version": "1.4.2",
+			"icon": "https://theodyssey.dev/assets/images/icon.png",
+			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
+			"dev": "Odyssey-Team",
+			"category": "Jailbreaks",
+			"bundleID": "org.coolstar.odyssey",
+			"description": "A new jailbreak for a new era.",
+			"screenshots": [
+				"https://theodyssey.dev/assets/images/iphones.png",
+				"https://theodyssey.dev/assets/images/iphone.png"
+			],
+			"contact": [
+				"https://theodyssey.dev/",
+				"https://twitter.com/OdysseyTeam_"
+			]
+		},
+		{
+			"name": "unc0ver",
+			"version": "8.0.2",
+			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
+			"down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+			"dev": "unc0ver-Team",
+			"category": "Jailbreaks",
+			"bundleID": "science.xnu.undecimus",
+			"screenshots": [
+				"https://usescarlet.com/Repo/unc0verpg1.png",
+				"https://usescarlet.com/Repo/unc0verpg2.png",
+				"https://usescarlet.com/Repo/unc0verpg3.png"
+			],
+			"contact": [
+				"https://unc0ver.dev/",
+				"https://twitter.com/pwn20wnd"
+			]
+		}
+	],
+	"Emulators": [{
+		"name": "iNDS",
+		"version": "1.10.8",
+		"icon": "https://iosninja.io/img/ipas/inds.png",
+		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+		"category": "Emulators",
+		"description": "",
+		"bundleID": "net.nerd.iNDS"
+	}, {
+		"name": "Delta iPac",
+		"version": "1",
+		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
+		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
+		"category": "Emulators",
+		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
+		"bundleID": "com.ianclawson.DeltaPacEdition"
 	}]
 }
