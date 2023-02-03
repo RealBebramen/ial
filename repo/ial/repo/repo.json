@@ -15,6 +15,7 @@
 		"contact": {
 			"web": "https://esign.yyyue.xyz",
 			"telegram": "https://t.me/qswapp",
+               }
 	}, {
                 "name": "BlackList Fix",
 		"version": "1.0.0",
