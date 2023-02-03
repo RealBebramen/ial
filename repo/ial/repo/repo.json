@@ -15,7 +15,7 @@
 		"contact": {
 			"web": "https://esign.yyyue.xyz",
 			"telegram": "https://t.me/qswapp",
-		}, {
+	}, {
                 "name": "BlackList Fix",
 		"version": "1.0.0",
 		"icon": "https://esign.yyyue.xyz/ESignLogo200.png",
@@ -28,7 +28,7 @@
 			"web": "https://esign.yyyue.xyz",
 			"telegram": "https://t.me/qswapp",
 		}
-	},
+	}],
 	"Hgames": [{
 		"name": "Standoff 2 Hack",
 		"version": "0.22.1",
