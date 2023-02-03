@@ -20,14 +20,14 @@
                 "name": "BlackList Fix",
 		"version": "1.0.0",
 		"icon": "https://esign.yyyue.xyz/ESignLogo200.png",
-		"down": "https://github.com/RealBebramen/ial/blob/main/repo/ial/repo/contain/ipas/Esign.ipa?raw=true",
+		"down": "https://www.dropbox.com/s/ebmckq0ykrf2bfg/BlackList%20Fix.ipa?dl=1",
 		"dev": "AppInstalleriOS",
 		"category": "Utilities",
 		"description": "Test",
 		"bundleID": "com.appinstallerios.blacklist",
 		"contact": {
-			"web": "https://esign.yyyue.xyz",
-			"telegram": "https://t.me/qswapp",
+			"dweb": "",
+			"telegram": "",
 		}
 	}],
 	"Hgames": [{
